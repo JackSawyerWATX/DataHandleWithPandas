@@ -1,0 +1,8 @@
+,salary,salary,salary,performance_score,employee_id
+,mean,median,std,mean,count
+department,,,,,
+Finance,67700.78,64539.17,19870.14,2.52,10
+HR,61702.69,61716.88,13517.83,2.9,26
+IT,65113.69,64222.88,12122.09,2.42,18
+Marketing,70953.66,70427.98,14981.71,2.94,22
+Operations,63298.01,66199.11,12737.36,3.21,24
